@@ -1,26 +1,23 @@
-# CodeAmoz 🌟
+# CodeAmoz 🌐
 
-**CodeAmoz** is a personal project website built using **HTML and CSS**.  
-It showcases my web development skills and serves as a practice project for creating structured, responsive, and visually appealing web pages.
+This is a simple personal website built with **HTML and CSS** as part of my web development practice.
 
----
-
-## 🚀 Project Overview
-This project demonstrates:
-- Structuring content with **semantic HTML**
-- Styling and layout with **CSS**
-- Basic web design principles for personal portfolio websites
-
-The goal of this project is to **practice web development** while creating a project that can be showcased in a portfolio.
-
----
+## 📌 Purpose
+I created this project to improve my skills in creating static websites and organizing layouts using HTML and CSS.
 
 ## 🛠️ Technologies Used
-- **HTML5**
-- **CSS3**
+- HTML
+- CSS
 
-*(Future updates may include JavaScript and responsive design improvements)*
+## 📁 Project Files
+- `index.html` — main webpage
+- `css/` — styling files
 
----
+## 📸 Screenshot
+*You can add a screenshot here later when the website is ready.*
 
-## 📁 Project Structure
+## 📍 Live Demo
+https://khadija-dev01.github.io/CodeAmoz/
+
+
+
